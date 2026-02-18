@@ -161,13 +161,22 @@ real magnetic field data
 
 Citation
 
-If you use this code in research, please cite:
+If you use RPCA-TM-Magnetic-Separation in your research, please cite it as:
 
-Badpa, M., Moradzadeh, A., Norouzi, G., & Roshandel Kahoo, A.
-Multiscale Magnetic Anomaly Separation and Depth Estimation Using Trajectory Matrix Based Robust Principal Component Analysis.
+BibTeX:
 
-(Submitted to Computers & Geosciences)
+@software{Badpa2026RPCA,
+  author       = {Miad Badpa},
+  title        = {RPCA-TM-Magnetic-Separation: MATLAB code for separating shallow and deep magnetic/gravity components},
+  version      = {v1.0.0},
+  date         = {2026-02-18},
+  url          = {https://github.com/MiadBadpa/RPCA-TM-Magnetic-Separation},
+  doi          = {10.5281/zenodo.18680570},
+  license      = {MIT}
+}
 
-License
 
-This project is released under the MIT License.
+Plain citation:
+
+Miad Badpa (2026). RPCA-TM-Magnetic-Separation: MATLAB code for separating shallow and deep magnetic/gravity components, Version v1.0.0, DOI: 10.5281/zenodo.18680570
+, MIT License.
